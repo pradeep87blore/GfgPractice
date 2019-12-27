@@ -33,7 +33,8 @@ namespace ConsoleApp1
         {
             // executables.Add(new ArrayOperations());
             // executables.Add(new MinAndMaxInArray());
-            executables.Add(new RotateAnArray());
+            // executables.Add(new RotateAnArray());
+            executables.Add(new LeadersInAnArray());
         }
     }
 }
