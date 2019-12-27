@@ -31,7 +31,8 @@ namespace ConsoleApp1
 
         private static void AddExecutables()
         {
-            executables.Add(new ArrayOperations());
+            // executables.Add(new ArrayOperations());
+            executables.Add(new MinAndMaxInArray());
         }
     }
 }
