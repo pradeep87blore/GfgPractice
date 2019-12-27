@@ -13,6 +13,7 @@ namespace GFGPractice.Utilities
             {
                 Console.Write(t + " ");
             }
+            Console.WriteLine();
         }
 
         public static int[] GenerateIntArray(int expectedArraySize)
